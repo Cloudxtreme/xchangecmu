@@ -1,0 +1,12 @@
+[
+  {
+    "path": "Android",
+    "name": "Venmo",
+    "checked": false
+  },
+  {
+    "path": "iOS",
+    "name": "Cash",
+    "checked": false
+  }
+]
